@@ -1,2 +1,2 @@
 # HPA
-Contains CNN used for Human Protein Atlas Kaggle competition
+CNN used for Human Protein Atlas Kaggle competition. Learning use Tensorflow and GPU.
